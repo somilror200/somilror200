@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Somil Garak
 - 👀 I’m interested in Application development
 - 🌱 I’m currently learning web development, mobile applications development, full stack development, IoT applications development, data structures and algorithms
-- 💞️ I’m looking to collaborate on web applications development
+- 💞️ I’m looking for collaboration to develop android app
 - 📫 somilror200@gmail.com
 
 <!---
