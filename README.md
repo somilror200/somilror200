@@ -10,7 +10,6 @@
 
 [<img align="left" alt="Somil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Somil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Somil | Instagram" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
 
