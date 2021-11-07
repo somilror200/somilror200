@@ -3,7 +3,7 @@
 ## I'm a Student!!
 
 - 👀 I’m interested in Application development <br>
-- 🌱 I’m currently learning web development, mobile applications development, full stack development, IoT applications development, data structures and algorithms
+- 🌱 I’m currently learning mobile applications development, full stack development, IoT applications development, data structures and algorithms
 - 📫 somilror200@gmail.com
 
 ### Connect with me:
