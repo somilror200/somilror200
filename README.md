@@ -1,5 +1,6 @@
 ### Hi there, I'm Somil Garak👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
 ## I'm a Student!!
 
 - 👀 I’m interested in Application development <br>
@@ -40,6 +41,8 @@
   <img align="left" alt="Somil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=somilror200&show_icons=true&hide_border=true" />
 
 </details>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [instagram]: https://instagram.com/somilror
 [linkedin]: https://linkedin.com/in/somil-garak-200
