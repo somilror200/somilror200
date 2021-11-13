@@ -42,7 +42,6 @@
 
 </details>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 [instagram]: https://instagram.com/somilror
 [linkedin]: https://linkedin.com/in/somil-garak-200
