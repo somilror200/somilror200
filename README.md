@@ -33,13 +33,13 @@
 <br />
 
 ---
-
+<!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Somil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=somilror200&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 <img align="left" alt="Somil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=somilror200&show_icons=true&hide_border=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somilror200&theme=tokyonight)
