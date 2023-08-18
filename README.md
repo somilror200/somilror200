@@ -11,10 +11,6 @@
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />](https://in.linkedin.com/in/somil-garak-200)
 [<img align="left" alt="Instagram" title="Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" />](https://www.instagram.com/somilror)
 
-
-<br />
-<br />
-
 <br />
 
 ---
