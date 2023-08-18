@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Somil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Somil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />](https://in.linkedin.com/in/somil-garak-200)
+[<img align="left" alt="Instagram" title="Instagram" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" />](https://www.instagram.com/somilror)
 
 <br />
 
